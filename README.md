@@ -1,1 +1,2 @@
-# Clippzy
+# Clipzzy – Simple Clipboard Manager (Beta Version)
+Clipzzy is a lightweight clipboard manager for Windows, designed to save everything you copy—whether it's text, images, or links. In its current beta version, Clipzzy offers basic functionality, allowing you to access your recent clipboard history easily. Ideal for those who need a simple, no-frills tool to track copied content, Clipzzy is intuitive and efficient, helping you stay organized. While still in development, new features and improvements will be coming soon!
